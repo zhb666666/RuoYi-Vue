@@ -1,0 +1,18 @@
+node_modules/
+unpackage/
+dist/
+.DS_Store
+*.log
+.hbuilderx/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vscode/
+
+# 微信小程序
+project.config.json
+project.private.config.json
+
+# uni-app编译目录
+/unpackage/
+/dist/
